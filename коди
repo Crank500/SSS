@@ -1,0 +1,17 @@
+# Оновлення пакетів на Raspberry Pi
+sudo apt-get update
+
+# Встановлення RPi.GPIO (для роботи з GPIO на Raspberry Pi)
+sudo apt-get install python3-rpi.gpio
+
+# Встановлення python-telegram-bot
+pip3 install python-telegram-bot
+
+# Встановлення w1thermsensor (для роботи з температурними датчиками 1-Wire)
+pip3 install w1thermsensor
+
+# Встановлення bottle (легкий веб-фреймворк)
+pip3 install bottle
+
+# Встановлення plotly (для створення графіків і візуалізацій)
+pip3 install plotly
