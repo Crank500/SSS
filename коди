@@ -35,4 +35,4 @@ pip3 install -r requirements.txt
 
 bash
 Копіювати код
-python3 <ім'я_файлу>.py
+python3 distibot.py
